@@ -6,9 +6,19 @@
   },
   "users": [
     {
-      "login_name": "Yarmoor",
-      "avatar_url": "https://avatars.githubusercontent.com/u/51134996?v=4",
-      "admin": false
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "lwjameson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "SteveMarvin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18423533?v=4",
+      "admin": true
     },
     {
       "login_name": "absempere",
@@ -19,6 +29,12 @@
       "login_name": "camdendotlol",
       "avatar_url": "https://avatars.githubusercontent.com/u/64725469?v=4",
       "admin": false
+    },
+    {
+      "login_name": "Yarmoor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51134996?v=4",
+      "admin": false,
+      "not_accepted": true
     }
   ],
   "project": {
@@ -54,6 +70,26 @@
       "tags": []
     },
     "created_at": "2025-04-01T18:45:55.843Z",
-    "updated_at": "2025-04-01T18:45:55.843Z"
-  }
+    "updated_at": "2025-04-01T18:45:55.843Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "8a5d6ea2-5d48-458e-b892-9eaa979fa451": {
+      "content": [],
+      "created_at": "2025-04-01T18:45:55.866Z",
+      "created_by": "SteveMarvin",
+      "title": "Add-GHUsers3",
+      "updated_at": "2025-04-01T18:45:55.866Z",
+      "updated_by": "SteveMarvin",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "8a5d6ea2-5d48-458e-b892-9eaa979fa451"
+  ]
 }
