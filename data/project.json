@@ -39,7 +39,7 @@
   ],
   "project": {
     "github_org": "AVAnnotate",
-    "is_private": false,
+    "is_private": true,
     "title": "Add-GHUsers3",
     "description": "Add-GHUsers3",
     "language": "en",
@@ -71,7 +71,7 @@
     },
     "created_at": "2025-04-01T18:45:55.843Z",
     "updated_at": "2025-04-01T19:26:45.786Z",
-    "generate_pages_site": true
+    "generate_pages_site": false
   },
   "annotations": {},
   "events": {},
