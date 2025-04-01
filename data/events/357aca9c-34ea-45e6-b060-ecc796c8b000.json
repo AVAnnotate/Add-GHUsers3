@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "b235b07e-0118-4669-9f5f-779e189ea431": {
+      "label": "10_tape06, 10_tape07",
+      "is_offline": false,
+      "duration": 56
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Harvard Summer School Conference on the Contemporary Novel. August 3–5, 1953. Woodberry Poetry Room, Houghton Library, Harvard University. ",
+  "item_type": "Audio",
+  "label": "August 5, 1953 Evening",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "On the final August 5th evening of the conference, the conversation continues in Sanders Theater from the afternoon session discussion. Hilda Livingston gives her talk “Paperback Books and the Writer” and William Sloane delivers his talk “The Editor and The Author.” A final panel discussion in response to Livingston and Sloane concludes the conference."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-04-01T19:26:45.466Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-04-01T19:26:45.466Z",
+  "updated_by": "SteveMarvin"
+}
