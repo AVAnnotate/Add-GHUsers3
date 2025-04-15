@@ -1,0 +1,36 @@
+{
+  "audiovisual_files": {
+    "309a5efa-2d72-4e64-bba5-1bb3eed30d18": {
+      "label": "audio file",
+      "is_offline": false,
+      "file_url": "https://file-examples.com/wp-content/storage/2017/11/file_example_MP3_700KB.mp3",
+      "duration": 42,
+      "caption_set": []
+    },
+    "a4515b77-5133-4ef1-8f7e-6c35a4ffa1c7": {
+      "label": "video file",
+      "is_offline": false,
+      "file_url": "https://www.sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "duration": 5,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "asdf"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "test multiformat event",
+  "created_at": "2025-04-15T19:02:58.608Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-04-15T19:02:58.608Z",
+  "updated_by": "SteveMarvin"
+}
