@@ -7,16 +7,6 @@
   },
   "users": [
     {
-      "login_name": "tanyaclement",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
-      "admin": true
-    },
-    {
-      "login_name": "lwjameson",
-      "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
-      "admin": true
-    },
-    {
       "login_name": "SteveMarvin",
       "avatar_url": "https://avatars.githubusercontent.com/u/18423533?v=4",
       "admin": true
@@ -30,16 +20,10 @@
       "login_name": "camdendotlol",
       "avatar_url": "https://avatars.githubusercontent.com/u/64725469?v=4",
       "admin": false
-    },
-    {
-      "login_name": "Yarmoor",
-      "avatar_url": "https://avatars.githubusercontent.com/u/51134996?v=4",
-      "admin": false,
-      "not_accepted": true
     }
   ],
   "project": {
-    "github_org": "AVAnnotate",
+    "github_org": "SteveMarvin",
     "is_private": false,
     "title": "Add-GHUsers3",
     "description": "Add-GHUsers3",
