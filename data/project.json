@@ -23,7 +23,7 @@
     }
   ],
   "project": {
-    "github_org": "SteveMarvin",
+    "github_org": "AVAnnotate",
     "is_private": false,
     "title": "Add-GHUsers3",
     "description": "Add-GHUsers3",
@@ -42,9 +42,328 @@
     "updated_at": "2025-05-06T18:27:11.213Z",
     "generate_pages_site": true
   },
-  "annotations": {},
-  "events": {},
+  "annotations": {
+    "0d3c0131-ab87-46f1-b29d-a739404b753e": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "bbd7efa2-1eba-434a-985f-48b902b9e338",
+      "source_id": "19d171da-206a-4f09-8748-234b2ae14c22"
+    },
+    "2465168d-fa30-4bf9-8acc-e003eb19dd93": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "a541410a-dd1a-4da6-988e-4e070e284c5f",
+      "source_id": "f189e838-74f3-49b6-ba9e-6996e2e6eb95"
+    },
+    "3e9c0b4a-5e7e-4524-bd00-b9c355596f63": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "357aca9c-34ea-45e6-b060-ecc796c8b000",
+      "source_id": "b235b07e-0118-4669-9f5f-779e189ea431"
+    },
+    "61e7efc5-78f1-4a24-92a8-7371dc9923c7": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "7e6d85e3-779f-4a8a-81be-f30f0c96542c",
+      "source_id": "a4515b77-5133-4ef1-8f7e-6c35a4ffa1c7"
+    },
+    "85abfd25-deb5-4316-927b-20941c9f8c3f": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "29f17f6d-f682-4e32-ac85-05f862147337",
+      "source_id": "1654ca64-baac-4017-a3c1-734b1658ccdf"
+    },
+    "8b1315ae-39df-4e59-bf3f-b08a31485635": {
+      "annotations": [
+        {
+          "start_time": 154,
+          "end_time": 2096,
+          "annotation": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "bfxg "
+                }
+              ]
+            }
+          ],
+          "tags": [],
+          "uuid": "b6e96f44-308a-4275-a02f-9501fe671f9f"
+        }
+      ],
+      "set": "Default",
+      "event_id": "8ebbd6f9-c82e-47d8-9a26-c906d1148807",
+      "source_id": "a6776fdf-a228-42c3-a50a-06303e34435f"
+    },
+    "9224bf97-1090-45ed-98ee-ab8d43cbd5fd": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "96823647-4526-40aa-be75-26e95beba65d",
+      "source_id": "aaf50007-c5be-4a78-aad4-f613005b66e8"
+    },
+    "b614277b-718f-4a18-9af9-702700773cfc": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "7e6d85e3-779f-4a8a-81be-f30f0c96542c",
+      "source_id": "309a5efa-2d72-4e64-bba5-1bb3eed30d18"
+    }
+  },
+  "events": {
+    "29f17f6d-f682-4e32-ac85-05f862147337": {
+      "audiovisual_files": {
+        "1654ca64-baac-4017-a3c1-734b1658ccdf": {
+          "label": "10_tape02, 10_tape02",
+          "is_offline": false,
+          "duration": 12
+        }
+      },
+      "auto_generate_web_page": true,
+      "citation": "Harvard Summer School Conference on the Contemporary Novel. August 3–5, 1953. Woodberry Poetry Room, Houghton Library, Harvard University. ",
+      "item_type": "Audio",
+      "label": "August 3, 1953 Evening (old)",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the first evening of the "
+            },
+            {
+              "type": "link",
+              "url": "https://www.google.com",
+              "children": [
+                {
+                  "text": " conference"
+                }
+              ]
+            },
+            {
+              "text": ", held in Sanders Theater in Memorial Hall at Harvard University on August 3, 1953, Professor Carvel Collins is introduced by William Yandell Elliott, Director of the Harvard Summer School. Collins, in turn, welcomes the public audience to the evening’s event as well as the participants to the conference in the coming days. The program for the evening includes Stanley Hyman’s lecture “New Trends in the Contemporary Novel\" and Frank O’Connor’s lecture “The Modern Novel.” Anthony West is invited to respond to Hyman and O’Connor, and his response is followed by the first panel discussion. "
+            }
+          ]
+        }
+      ],
+      "created_at": "2025-04-01T19:03:19.981Z",
+      "created_by": "SteveMarvin",
+      "updated_at": "2025-04-01T19:26:14.679Z",
+      "updated_by": "SteveMarvin"
+    },
+    "357aca9c-34ea-45e6-b060-ecc796c8b000": {
+      "audiovisual_files": {
+        "b235b07e-0118-4669-9f5f-779e189ea431": {
+          "label": "10_tape06, 10_tape07",
+          "is_offline": false,
+          "duration": 56
+        }
+      },
+      "auto_generate_web_page": true,
+      "citation": "Harvard Summer School Conference on the Contemporary Novel. August 3–5, 1953. Woodberry Poetry Room, Houghton Library, Harvard University. ",
+      "item_type": "Audio",
+      "label": "August 5, 1953 Evening",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the final August 5th evening of the conference, the conversation continues in Sanders Theater from the afternoon session discussion. Hilda Livingston gives her talk “Paperback Books and the Writer” and William Sloane delivers his talk “The Editor and The Author.” A final panel discussion in response to Livingston and Sloane concludes the conference."
+            }
+          ]
+        }
+      ],
+      "created_at": "2025-04-01T19:26:45.466Z",
+      "created_by": "SteveMarvin",
+      "updated_at": "2025-04-01T19:26:45.466Z",
+      "updated_by": "SteveMarvin"
+    },
+    "7e6d85e3-779f-4a8a-81be-f30f0c96542c": {
+      "audiovisual_files": {
+        "309a5efa-2d72-4e64-bba5-1bb3eed30d18": {
+          "label": "audio file",
+          "is_offline": false,
+          "file_url": "https://file-examples.com/wp-content/storage/2017/11/file_example_MP3_700KB.mp3",
+          "duration": 42,
+          "caption_set": []
+        },
+        "a4515b77-5133-4ef1-8f7e-6c35a4ffa1c7": {
+          "label": "video file",
+          "is_offline": false,
+          "file_url": "https://www.sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4",
+          "duration": 5,
+          "caption_set": []
+        }
+      },
+      "auto_generate_web_page": true,
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "asdf"
+            }
+          ]
+        }
+      ],
+      "citation": "",
+      "item_type": "Video",
+      "label": "test multiformat event",
+      "created_at": "2025-04-15T19:02:58.608Z",
+      "created_by": "SteveMarvin",
+      "updated_at": "2025-04-15T19:02:58.608Z",
+      "updated_by": "SteveMarvin"
+    },
+    "8ebbd6f9-c82e-47d8-9a26-c906d1148807": {
+      "audiovisual_files": {
+        "a6776fdf-a228-42c3-a50a-06303e34435f": {
+          "label": "7.5_tape05,7.5_tape06, 7.5_tape07, 7.5_tape08",
+          "is_offline": false,
+          "duration": 23
+        }
+      },
+      "auto_generate_web_page": true,
+      "citation": "Harvard Summer School Conference on the Contemporary Novel. August 3–5, 1953. Woodberry Poetry Room, Houghton Library, Harvard University. ",
+      "item_type": "Audio",
+      "label": "August 4, 1953 Afternoon",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the afternoons of the conference, invited participants gather in the Forum Room in Houghton Library at Harvard University where one of the panelists delivers a response to the discussion from the night before followed by a discussion with the other panelists and the audience. On this first afternoon session on August 4th, Carvel Collins introduces the session discussion and W.M. Frohock gives his untitled lecture as a response to the previous evening’s talks. The afternoon's program also includes the conference's first session discussion."
+            }
+          ]
+        }
+      ],
+      "created_at": "2025-04-01T19:26:45.466Z",
+      "created_by": "SteveMarvin",
+      "updated_at": "2025-04-01T19:26:45.466Z",
+      "updated_by": "SteveMarvin"
+    },
+    "96823647-4526-40aa-be75-26e95beba65d": {
+      "audiovisual_files": {
+        "aaf50007-c5be-4a78-aad4-f613005b66e8": {
+          "label": "10_tape02, 10_tape02",
+          "is_offline": false,
+          "duration": 12
+        }
+      },
+      "auto_generate_web_page": true,
+      "citation": "Harvard Summer School Conference on the Contemporary Novel. August 3–5, 1953. Woodberry Poetry Room, Houghton Library, Harvard University. ",
+      "item_type": "Audio",
+      "label": "August 3, 1953 Evening",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the first evening of the "
+            },
+            {
+              "type": "link",
+              "url": "https://www.google.com",
+              "children": [
+                {
+                  "text": " conference"
+                }
+              ]
+            },
+            {
+              "text": ", held in Sanders Theater in Memorial Hall at Harvard University on August 3, 1953, Professor Carvel Collins is introduced by William Yandell Elliott, Director of the Harvard Summer School. Collins, in turn, welcomes the public audience to the evening’s event as well as the participants to the conference in the coming days. The program for the evening includes Stanley Hyman’s lecture “New Trends in the Contemporary Novel\" and Frank O’Connor’s lecture “The Modern Novel.” Anthony West is invited to respond to Hyman and O’Connor, and his response is followed by the first panel discussion. "
+            }
+          ]
+        }
+      ],
+      "created_at": "2025-04-01T19:26:45.466Z",
+      "created_by": "SteveMarvin",
+      "updated_at": "2025-04-01T19:26:45.466Z",
+      "updated_by": "SteveMarvin"
+    },
+    "a541410a-dd1a-4da6-988e-4e070e284c5f": {
+      "audiovisual_files": {
+        "f189e838-74f3-49b6-ba9e-6996e2e6eb95": {
+          "label": "10_tape03, 10_tape04, 10_tape05",
+          "is_offline": false,
+          "duration": 34
+        }
+      },
+      "auto_generate_web_page": true,
+      "citation": "Harvard Summer School Conference on the Contemporary Novel. August 3–5, 1953. Woodberry Poetry Room, Houghton Library, Harvard University. ",
+      "item_type": "Audio",
+      "label": "August 4, 1953 Evening",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After the afternoon's closed session of talks and discussions, the conference participants gather together on the evening of August 4th in Sanders Theater for the second set of public talks. The program includes opening remarks by Carvel Collins, George Simenon’s lecture “The Era of the Novel?” and Ralph Ellison’s lecture “Certain Neglected Aspects of the American Novel.”  Wilbur M. Frohock responds to Simenon and Ellison. His response is followed by a panel discussion."
+            }
+          ]
+        }
+      ],
+      "created_at": "2025-04-01T19:26:45.466Z",
+      "created_by": "SteveMarvin",
+      "updated_at": "2025-04-01T19:26:45.466Z",
+      "updated_by": "SteveMarvin"
+    },
+    "bbd7efa2-1eba-434a-985f-48b902b9e338": {
+      "audiovisual_files": {
+        "19d171da-206a-4f09-8748-234b2ae14c22": {
+          "label": "7.5_tape01, 7.5_tape02, 7.5_tape03, 7.5_tape04",
+          "is_offline": false,
+          "duration": 45
+        }
+      },
+      "auto_generate_web_page": true,
+      "citation": "Harvard Summer School Conference on the Contemporary Novel. August 3–5, 1953. Woodberry Poetry Room, Houghton Library, Harvard University. ",
+      "item_type": "Audio",
+      "label": "August 5, 1953 Afternoon",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the Forum Room on August 5th, the last afternoon of the conference, Hans Egon Holthusen gives a lecture in response to the talks and discussions from the evening before. This program also includes a session discussion."
+            }
+          ]
+        }
+      ],
+      "created_at": "2025-04-01T19:26:45.466Z",
+      "created_by": "SteveMarvin",
+      "updated_at": "2025-04-01T19:26:45.466Z",
+      "updated_by": "SteveMarvin"
+    }
+  },
   "pages": {
+    "076948b0-0a70-495e-8c63-e940e8b221f2": {
+      "content": [],
+      "created_at": "2025-04-01T19:26:45.742Z",
+      "created_by": "SteveMarvin",
+      "title": "August 5, 1953 Afternoon",
+      "slug": "august-5-1953-afternoon",
+      "updated_at": "2025-04-01T19:26:45.742Z",
+      "updated_by": "SteveMarvin",
+      "parent": "8a5d6ea2-5d48-458e-b892-9eaa979fa451",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "bbd7efa2-1eba-434a-985f-48b902b9e338"
+      }
+    },
+    "71744ea7-d9ec-4b94-af0f-60bafcc3c6ac": {
+      "content": [],
+      "created_at": "2025-04-15T19:02:58.844Z",
+      "created_by": "SteveMarvin",
+      "title": "test multiformat event",
+      "slug": "test-multiformat-event",
+      "updated_at": "2025-04-15T19:02:58.844Z",
+      "updated_by": "SteveMarvin",
+      "parent": "8a5d6ea2-5d48-458e-b892-9eaa979fa451",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "7e6d85e3-779f-4a8a-81be-f30f0c96542c"
+      }
+    },
     "8a5d6ea2-5d48-458e-b892-9eaa979fa451": {
       "content": [],
       "created_at": "2025-04-01T18:45:55.866Z",
@@ -56,9 +375,1032 @@
         "enabled": true,
         "type": "home"
       }
+    },
+    "8d2d0829-a3be-45e9-9a0c-360cdc7071e7": {
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "event",
+          "uuid": "29f17f6d-f682-4e32-ac85-05f862147337",
+          "includes": [
+            "media",
+            "annotations",
+            "label",
+            "description"
+          ],
+          "start": 10,
+          "end": 30,
+          "file": "1654ca64-baac-4017-a3c1-734b1658ccdf",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is text",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is text",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is text",
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is text",
+              "strikethrough": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is text",
+              "code": true
+            }
+          ]
+        },
+        {
+          "type": "block-quote",
+          "children": [
+            {
+              "text": "This is text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is text",
+              "textSize": "heading-one"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "layout": [
+            2,
+            4
+          ],
+          "children": [
+            {
+              "type": "column",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "asdfas"
+                    }
+                  ]
+                }
+              ],
+              "left": 10
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table-of-contents",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "layout": [
+            6
+          ],
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://fastly.picsum.photos/id/130/3807/2538.jpg?hmac=Kl_ZLgNPUBhsKnffomgQvxWA17JhdNLYBnwlPHBEias",
+          "caption": "Bird",
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "scale": 40
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "title": "Test",
+      "parent": "a42bf8ff-9f6a-451c-a7e5-9c5106b5ea96",
+      "autogenerate": {
+        "enabled": false,
+        "type": "custom"
+      },
+      "slug": "test",
+      "created_at": "2025-04-03T17:54:11.045Z",
+      "created_by": "SteveMarvin",
+      "updated_at": "2025-05-06T18:27:09.980Z",
+      "updated_by": "SteveMarvin"
+    },
+    "a42bf8ff-9f6a-451c-a7e5-9c5106b5ea96": {
+      "content": [],
+      "created_at": "2025-04-01T19:26:45.660Z",
+      "created_by": "SteveMarvin",
+      "title": "August 3, 1953 Evening",
+      "slug": "august-3-1953-evening",
+      "updated_at": "2025-04-01T19:26:45.660Z",
+      "updated_by": "SteveMarvin",
+      "parent": "8a5d6ea2-5d48-458e-b892-9eaa979fa451",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "96823647-4526-40aa-be75-26e95beba65d"
+      }
+    },
+    "a9bcc32a-669f-4c2e-9f6f-cb87ecdc941b": {
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Google Doc Paste",
+              "textSize": "heading-one"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The recordings featured in this exhibit come from the Gloria Evangelina Anzaldua Papers, housed at the Benson Latin American Collection at the University of Texas at Austin. The recordings, most of which were recorded on audiocassette by Anzaldua herself, were made between 1980 and 1984 and document the writer’s interest in occult spiritual practices as methods of learning and knowing, what would inform a sense of what Anzaldua refers to as Spiritual Activism."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The early 1980s are a critical period in the study of Anzaldua’s life and work, with the 1981 publication of the landmark Feminist anthology, This Bridge Called My Back [MO1] which was co-edited by Gloria Anzaldua and Cherrié Moraga and published by Kitchen Table Press. It was during this time that Anzaldua was working on Borderlands/La Frontera (1987)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Evidenced in these recordings are not only Anzaldua’s interest in what we might readily identify as “New Age” spiritual practice, such as tarot, palmistry, and astrology, but the networks of spiritual practitioners, scholars, and activists that Anzaldua interacted with while living and writing in the cultural hotbeds of San Francisco and later, New York."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Audiovisual materials provide unique insights into history. Through the voices and conversations captured in this collection of recordings, listeners may come closer to understanding the particular ways in which histories were first embodied in their own present time. Laughter, silence, pauses and hesitations, the crunching sounds of mixed nuts, creaking doors, and detours in conversation: these artifacts within artifacts carry meaning that can only be interpreted in real time, while also revealing the imperfections and spontaneity of the historical process."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This exhibit serves to index recurring themes within the collection, while also pointing to related areas and artifacts of the broader Anzaldua Papers, including manuscripts, subject files, and other audiovisual materials."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Description of the Recordings"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are over 300 audiocassette tapes in Anzaldua’s collection. Described in the Benson’s finding aid as “Spirituality Recordings,” these 16 audio recordings document palm readings, astrology readings, and tarot readings and workshops. Many of the recordings prominently feature Anzaldua as she receives readings; other figures that appear in the recordings include Cherrie Moraga, Chela Sandoval, Angeles Arrien, and Sally Gearhart."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The earliest recordings in this exhibit were made in the late Summer of 1980, and document a series of tarot workshops taught by Angeles Arrien, a cultural anthropologist and author of ten books including The Tarot handbook : practical applications of ancient visual symbols (1987), and The Four-Fold Way: Walking the Paths of the Warrior, Healer, Teacher and Visionary (1993). These classes were attended by Anzaldua, showing a deep interest in the Tarot. Anzaldua demonstrates her knowledge by giving a tarot reading in 1981 to Sally Gearhart[MO2] , an activist[MO3] , novelist, professor active in San Francisco, and co-author of A Feminist Tarot (1981), along with Susan Rennie. In many of the recordings, Anzaldua receives either palm, astrology, or tarot readings. In one such recording, Anzaldua’s palms are read by her friend and fellow scholar Chela Sandoval while Anzaldua visited her in Santa Cruz in July 1983. In another undated recording, Cherrie Moraga receives an astrology reading from an unidentified practitioner."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About this Exhibit and Using AVAnnotate to Access Archival Materials"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This AVAnnotate exhibit is intended to foreground the value of audiovisual materials held in archives collections that may go understudied, especially when compared to paper artifacts. By annotating passages with artifacts from the Anzaldua Papers that are relevant either thematically or historically, this exhibit might serve as a jumping off point into what is a considerable collection with a diverse range of materials. By contextualizing these recordings among the broader collection, we can see just how intertwined Anzaldua’s spiritual practices were with her scholarship, her writing process, and her role within a larger community of scholars, teachers, writers, and activists."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " One benefit of using the AVAnnotate platform to facilitate access to archival collections is the ability to integrate transcripts and annotations with the audiovisual materials themselves. In the case of legacy media, both analog and digital, preservation and conservation are critical to the survival of these materials and the knowledge encoded within them, yet it remains a struggle for many archives institutions to attend to the challenges of deterioration, maintaining hardware for playback, and/or the upkeep of maintaining unsupported software and file formats. In this way, AVAnnotate can be used as a tool to preserve transcripts as an alternate mode of access, to augment the researcher experience by providing archival connections between audiovisual materials and other objects in a collection, and to document the materials themselves, beyond the level of the transcript, to include knowledge that might only be gleaned from interacting with the materials in their original formats."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It can also support the incorporation of humanistic knowledge. For example, when original or digitized artifacts are lost or irrecoverable, annotated transcripts based on the original materials, can preserve extralinguistic meanings that may otherwise be lost."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Methods: Annotating the tapes/ A Guide to Layers and Index Terms"
+            }
+          ]
+        },
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "What is it like to listen to these tapes? What sort of problems arise when trying to annotate audiovisual/time-based materials?  Patterns, experiences, questions."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "What standards have I employed in this project and what do my annotations accomplish? How can they be used? What problems do the annotations address?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Example: How language is captured. Transcribing “Si” to “I see”"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Outline the general organization of the layer terms, and then focus in on one to three of the terms: plática and identity would be good ones"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Or include a glossary?"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Word Doc Paste",
+              "textSize": "heading-one"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The\nrecordings featured in this exhibit come from the Gloria Evangelina Anzaldua\nPapers, housed at the Benson Latin American Collection at the University of\nTexas at Austin. The recordings, most of which were recorded on audiocassette\nby Anzaldua herself, were made between 1980 and 1984 and document the writer’s\ninterest in occult spiritual practices as methods of learning and knowing, what\nwould inform a sense of what Anzaldua refers to as Spiritual Activism."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The early 1980s are a critical period in the\nstudy of Anzaldua’s life and work, with the 1981 publication of the landmark\nFeminist anthology, "
+            },
+            {
+              "text": "This Bridge Called My\nBack",
+              "italic": true
+            },
+            {
+              "text": " [MO1] which was co-edited by Gloria Anzaldua and Cherrié Moraga and\npublished by Kitchen Table Press. It was during this time that Anzaldua was\nworking on "
+            },
+            {
+              "text": "Borderlands/La Frontera",
+              "italic": true
+            },
+            {
+              "text": "\n(1987)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Evidenced in these recordings are not only\nAnzaldua’s interest in what we might readily identify as “New Age” spiritual\npractice, such as tarot, palmistry, and astrology, but the networks of\nspiritual practitioners, scholars, and activists that Anzaldua interacted with\nwhile living and writing in the cultural hotbeds of San Francisco and later,\nNew York."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Audiovisual materials provide unique insights\ninto history. Through the voices and conversations captured in this collection\nof recordings, listeners may come closer to understanding the particular ways\nin which histories were first embodied in their own present time. Laughter,\nsilence, pauses and hesitations, the crunching sounds of mixed nuts, creaking\ndoors, and detours in conversation: these artifacts within artifacts carry\nmeaning that can only be interpreted in real time, while also revealing the imperfections\nand spontaneity of the historical process."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This\nexhibit serves to index recurring themes within the collection, while also\npointing to related areas and artifacts of the broader Anzaldua Papers,\nincluding manuscripts, subject files, and other audiovisual materials."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Description of the Recordings"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There\nare over 300 audiocassette tapes in Anzaldua’s collection. Described in the\nBenson’s finding aid as “Spirituality Recordings,” these 16 audio recordings\ndocument palm readings, astrology readings, and tarot readings and workshops.\nMany of the recordings prominently feature Anzaldua as she receives readings;\nother figures that appear in the recordings include Cherrie Moraga, Chela\nSandoval, Angeles Arrien, and Sally Gearhart."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The earliest recordings in this exhibit were\nmade in the late Summer of 1980, and document a series of tarot workshops\ntaught by Angeles Arrien, a cultural anthropologist and author of ten books\nincluding "
+            },
+            {
+              "text": "The Tarot handbook : practical\napplications of ancient visual symbols",
+              "italic": true
+            },
+            {
+              "text": " (1987), and "
+            },
+            {
+              "text": "The Four-Fold Way: Walking the Paths of the Warrior, Healer, Teacher\nand Visionary",
+              "italic": true
+            },
+            {
+              "text": " (1993). These classes were attended by Anzaldua, showing a\ndeep interest in the Tarot. Anzaldua demonstrates her knowledge by giving a\ntarot reading in 1981 to Sally Gearhart[MO2] , an activist[MO3] , novelist,\nprofessor active in San Francisco, and co-author of A Feminist Tarot (1981),\nalong with Susan Rennie. In many of the recordings, Anzaldua receives either\npalm, astrology, or tarot readings. In one such recording, Anzaldua’s palms are\nread by her friend and fellow scholar Chela Sandoval while Anzaldua visited her\nin Santa Cruz in July 1983. In another undated recording, Cherrie Moraga\nreceives an astrology reading from an unidentified practitioner."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About this Exhibit and Using AVAnnotate\nto Access Archival Materials"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This\nAVAnnotate exhibit is intended to foreground the value of audiovisual materials\nheld in archives collections that may go understudied, especially when compared\nto paper artifacts. By annotating passages with artifacts from the Anzaldua\nPapers that are relevant either thematically or historically, this exhibit\nmight serve as a jumping off point into what is a considerable collection with\na diverse range of materials. By contextualizing these recordings among the\nbroader collection, we can see just how intertwined Anzaldua’s spiritual\npractices were with her scholarship, her writing process, and her role within a\nlarger community of scholars, teachers, writers, and activists."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " One benefit of using the AVAnnotate platform\nto facilitate access to archival collections is the ability to integrate\ntranscripts and annotations with the audiovisual materials themselves. In the\ncase of legacy media, both analog and digital, preservation and conservation\nare critical to the survival of these materials and the knowledge encoded\nwithin them, yet it remains a struggle for many archives institutions to attend\nto the challenges of deterioration, maintaining hardware for playback, and/or\nthe upkeep of maintaining unsupported software and file formats. In this way,\nAVAnnotate can be used as a tool to preserve transcripts as an alternate mode\nof access, to augment the researcher experience by providing archival\nconnections between audiovisual materials and other objects in a collection,\nand to document the materials themselves, beyond the level of the transcript,\nto include knowledge that might only be gleaned from interacting with the\nmaterials in their original formats."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It can also support the incorporation of\nhumanistic knowledge. For example, when original or digitized artifacts are\nlost or irrecoverable, annotated transcripts based on the original materials,\ncan preserve extralinguistic meanings that may otherwise be lost."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Methods: Annotating the tapes/ A Guide\nto Layers and Index Terms"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "●       \nWhat is it like to listen to these\ntapes? What sort of problems arise when trying to annotate\naudiovisual/time-based materials? \nPatterns, experiences, questions."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "●       \nWhat standards have I employed in this\nproject and what do my annotations accomplish? How can they be used? What\nproblems do the annotations address?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "○        \nExample: How language is captured.\nTranscribing “Si” to “I see”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "●       \nOutline the general organization of the\nlayer terms, and then focus in on one to three of the terms: plática and\nidentity would be good ones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "○        \nOr include a glossary?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Word DOc with Footnote",
+              "textSize": "heading-one"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The\nrecordings featured in this exhibit come from the Gloria Evangelina Anzaldua\nPapers, housed at the Benson Latin American Collection at the University of\nTexas at Austin. The recordings, most of which were recorded on audiocassette\nby Anzaldua herself, were made between 1980 and 1984 and document the writer’s\ninterest in occult spiritual practices as methods of learning and knowing, what\nwould inform a sense of what Anzaldua refers to as Spiritual Activism."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The early 1980s are a critical period in the\nstudy of Anzaldua’s life and work, with the 1981 publication of the landmark\nFeminist anthology, "
+            },
+            {
+              "text": "This Bridge Called My\nBack",
+              "italic": true
+            },
+            {
+              "text": " [MO1] which was co-edited by Gloria Anzaldua and Cherrié Moraga and\npublished by Kitchen Table Press. It was during this time that Anzaldua was\nworking on "
+            },
+            {
+              "text": "Borderlands/La Frontera",
+              "italic": true
+            },
+            {
+              "text": "\n(1987)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Evidenced in these recordings are not only\nAnzaldua’s interest in what we might readily identify as “New Age” spiritual\npractice, such as tarot, palmistry, and astrology, but the networks of\nspiritual practitioners, scholars, and activists that Anzaldua interacted with\nwhile living and writing in the cultural hotbeds "
+            },
+            {
+              "type": "link",
+              "url": "#_ftn1",
+              "children": [
+                {
+                  "text": "[1]"
+                }
+              ]
+            },
+            {
+              "text": "of\nSan Francisco and later, New York."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Audiovisual materials provide unique insights\ninto history. Through the voices and conversations captured in this collection\nof recordings, listeners may come closer to understanding the particular ways\nin which histories were first embodied in their own present time. Laughter,\nsilence, pauses and hesitations, the crunching sounds of mixed nuts, creaking\ndoors, and detours in conversation: these artifacts within artifacts carry\nmeaning that can only be interpreted in real time, while also revealing the imperfections\nand spontaneity of the historical process."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This\nexhibit serves to index recurring themes within the collection, while also\npointing to related areas and artifacts of the broader Anzaldua Papers,\nincluding manuscripts, subject files, and other audiovisual materials."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Description of the Recordings"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There\nare over 300 audiocassette tapes in Anzaldua’s collection. Described in the\nBenson’s finding aid as “Spirituality Recordings,” these 16 audio recordings\ndocument palm readings, astrology readings, and tarot readings and workshops.\nMany of the recordings prominently feature Anzaldua as she receives readings;\nother figures that appear in the recordings include Cherrie Moraga, Chela\nSandoval, Angeles Arrien, and Sally Gearhart."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The earliest recordings in this exhibit were\nmade in the late Summer of 1980, and document a series of tarot workshops\ntaught by Angeles Arrien, a cultural anthropologist and author of ten books\nincluding "
+            },
+            {
+              "text": "The Tarot handbook : practical\napplications of ancient visual symbols",
+              "italic": true
+            },
+            {
+              "text": " (1987), and "
+            },
+            {
+              "text": "The Four-Fold Way: Walking the Paths of the Warrior, Healer, Teacher\nand Visionary",
+              "italic": true
+            },
+            {
+              "text": " (1993). These classes were attended by Anzaldua, showing a\ndeep interest in the Tarot. Anzaldua demonstrates her knowledge by giving a\ntarot reading in 1981 to Sally Gearhart[MO2] , an activist[MO3] , novelist,\nprofessor active in San Francisco, and co-author of A Feminist Tarot (1981),\nalong with Susan Rennie. In many of the recordings, Anzaldua receives either\npalm, astrology, or tarot readings. In one such recording, Anzaldua’s palms are\nread by her friend and fellow scholar Chela Sandoval while Anzaldua visited her\nin Santa Cruz in July 1983. In another undated recording, Cherrie Moraga\nreceives an astrology reading from an unidentified practitioner."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About this Exhibit and Using AVAnnotate\nto Access Archival Materials"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This\nAVAnnotate exhibit is intended to foreground the value of audiovisual materials\nheld in archives collections that may go understudied, especially when compared\nto paper artifacts. By annotating passages with artifacts from the Anzaldua\nPapers that are relevant either thematically or historically, this exhibit\nmight serve as a jumping off point into what is a considerable collection with\na diverse range of materials. By contextualizing these recordings among the\nbroader collection, we can see just how intertwined Anzaldua’s spiritual\npractices were with her scholarship, her writing process, and her role within a\nlarger community of scholars, teachers, writers, and activists."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " One benefit of using the AVAnnotate platform\nto facilitate access to archival collections is the ability to integrate\ntranscripts and annotations with the audiovisual materials themselves. In the\ncase of legacy media, both analog and digital, preservation and conservation\nare critical to the survival of these materials and the knowledge encoded\nwithin them, yet it remains a struggle for many archives institutions to attend\nto the challenges of deterioration, maintaining hardware for playback, and/or\nthe upkeep of maintaining unsupported software and file formats. In this way,\nAVAnnotate can be used as a tool to preserve transcripts as an alternate mode\nof access, to augment the researcher experience by providing archival\nconnections between audiovisual materials and other objects in a collection,\nand to document the materials themselves, beyond the level of the transcript,\nto include knowledge that might only be gleaned from interacting with the\nmaterials in their original formats."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It can also support the incorporation of\nhumanistic knowledge. For example, when original or digitized artifacts are\nlost or irrecoverable, annotated transcripts based on the original materials,\ncan preserve extralinguistic meanings that may otherwise be lost."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Methods: Annotating the tapes/ A Guide\nto Layers and Index Terms"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "●       \nWhat is it like to listen to these\ntapes? What sort of problems arise when trying to annotate\naudiovisual/time-based materials? \nPatterns, experiences, questions."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "●       \nWhat standards have I employed in this\nproject and what do my annotations accomplish? How can they be used? What\nproblems do the annotations address?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "○        \nExample: How language is captured.\nTranscribing “Si” to “I see”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "●       \nOutline the general organization of the\nlayer terms, and then focus in on one to three of the terms: plática and\nidentity would be good ones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "○        \nOr include a glossary?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "type": "link",
+              "url": "#_ftnref1",
+              "children": [
+                {
+                  "text": "[1]"
+                }
+              ]
+            },
+            {
+              "text": " Here is a footnote"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "title": "Test HTML paste (Google and WOrd Doc)",
+      "parent": "8a5d6ea2-5d48-458e-b892-9eaa979fa451",
+      "autogenerate": {
+        "enabled": false,
+        "type": "custom"
+      },
+      "slug": "test-html-paste-google-and-word-doc",
+      "created_at": "2025-04-15T18:51:37.751Z",
+      "created_by": "SteveMarvin",
+      "updated_at": "2025-04-15T18:57:57.229Z",
+      "updated_by": "SteveMarvin"
+    },
+    "b3b5ee4a-583e-4d5f-878c-b03f9ed5afa3": {
+      "content": [],
+      "created_at": "2025-04-01T19:26:45.684Z",
+      "created_by": "SteveMarvin",
+      "title": "August 4, 1953 Afternoon",
+      "slug": "august-4-1953-afternoon",
+      "updated_at": "2025-04-01T19:26:45.684Z",
+      "updated_by": "SteveMarvin",
+      "parent": "8a5d6ea2-5d48-458e-b892-9eaa979fa451",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "8ebbd6f9-c82e-47d8-9a26-c906d1148807"
+      }
+    },
+    "b5352258-5b0a-4fae-829f-8cab5c66991e": {
+      "content": [],
+      "created_at": "2025-04-01T19:26:45.765Z",
+      "created_by": "SteveMarvin",
+      "title": "August 5, 1953 Evening",
+      "slug": "august-5-1953-evening",
+      "updated_at": "2025-04-01T19:26:45.765Z",
+      "updated_by": "SteveMarvin",
+      "parent": "8a5d6ea2-5d48-458e-b892-9eaa979fa451",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "357aca9c-34ea-45e6-b060-ecc796c8b000"
+      }
+    },
+    "c59a9854-ecbc-46da-a9c8-0a5bc02a2e65": {
+      "content": [],
+      "created_at": "2025-04-01T19:26:45.707Z",
+      "created_by": "SteveMarvin",
+      "title": "August 4, 1953 Evening",
+      "slug": "august-4-1953-evening",
+      "updated_at": "2025-04-01T19:26:45.707Z",
+      "updated_by": "SteveMarvin",
+      "parent": "8a5d6ea2-5d48-458e-b892-9eaa979fa451",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "a541410a-dd1a-4da6-988e-4e070e284c5f"
+      }
+    },
+    "d6a46729-31f0-449d-95d2-b0dc4a9d9206": {
+      "content": [],
+      "created_at": "2025-04-01T19:03:20.127Z",
+      "created_by": "SteveMarvin",
+      "title": "August 3, 1953 Evening (old)",
+      "slug": "august-3-1953-evening-old",
+      "updated_at": "2025-04-01T19:03:20.127Z",
+      "updated_by": "SteveMarvin",
+      "parent": "8a5d6ea2-5d48-458e-b892-9eaa979fa451",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "29f17f6d-f682-4e32-ac85-05f862147337"
+      }
     }
   },
   "pageOrder": [
-    "8a5d6ea2-5d48-458e-b892-9eaa979fa451"
+    "8a5d6ea2-5d48-458e-b892-9eaa979fa451",
+    "d6a46729-31f0-449d-95d2-b0dc4a9d9206",
+    "a42bf8ff-9f6a-451c-a7e5-9c5106b5ea96",
+    "8d2d0829-a3be-45e9-9a0c-360cdc7071e7",
+    "b3b5ee4a-583e-4d5f-878c-b03f9ed5afa3",
+    "c59a9854-ecbc-46da-a9c8-0a5bc02a2e65",
+    "076948b0-0a70-495e-8c63-e940e8b221f2",
+    "b5352258-5b0a-4fae-829f-8cab5c66991e",
+    "8d2d0829-a3be-45e9-9a0c-360cdc7071e7",
+    "a9bcc32a-669f-4c2e-9f6f-cb87ecdc941b",
+    "71744ea7-d9ec-4b94-af0f-60bafcc3c6ac"
+  ],
+  "eventOrder": [
+    "29f17f6d-f682-4e32-ac85-05f862147337",
+    "357aca9c-34ea-45e6-b060-ecc796c8b000",
+    "7e6d85e3-779f-4a8a-81be-f30f0c96542c",
+    "8ebbd6f9-c82e-47d8-9a26-c906d1148807",
+    "96823647-4526-40aa-be75-26e95beba65d",
+    "a541410a-dd1a-4da6-988e-4e070e284c5f",
+    "bbd7efa2-1eba-434a-985f-48b902b9e338"
   ]
 }
